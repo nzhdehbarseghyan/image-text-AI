@@ -36,7 +36,6 @@ cp .env.example .env
 # 5- Start the server
 npm run dev
 
-# If successful move to API Documentation section
 ```
 
 ## Documentation
